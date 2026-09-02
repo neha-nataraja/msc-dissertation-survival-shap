@@ -71,9 +71,3 @@ rather than refitting from scratch.
 
 Full dissertation write-up (methodology, statistical detail, limitations, and future
 work) available on request.
-
-## Note on AI use
-
-As declared in the dissertation itself: Claude was used to assist with R code and
-debugging, structuring chapters, drafting prose, and formatting the LaTeX source.
-All analysis, interpretation, and conclusions are the author's own.
